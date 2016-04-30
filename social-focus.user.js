@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Keep focus on your social feeds
 // @author       claudiopro
-// @icon         https://www.example.org/icon.png
+// @icon         http://decadentjs.github.io/resources/decadent_js_logo_32.png
 // @match        https://twitter.com/*
 // @match        https://www.facebook.com/*
 // @match        https://www.facebook.sg/*
