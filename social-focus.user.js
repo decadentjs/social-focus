@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Social Focus
 // @namespace    http://decadentjs.github.io/social-focus
-// @version      0.1
+// @version      0.2
 // @description  Keep focus on your social feeds
 // @author       claudiopro
 // @icon         http://decadentjs.github.io/resources/decadent_js_logo_32.png
